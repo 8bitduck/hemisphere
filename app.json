@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Hemisphere",
+    "version": "0.0.1",
+    "slug": "hemisphere",
+    "sdkVersion": "25.0.0",
+    "ios": {
+      "bundleIdentifier": "com.hemispheredm.ios"
+    },
+    "android": {
+      "package": "com.hemispheredm.android"
+    }
+  }
+}
